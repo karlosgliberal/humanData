@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenas/karlos.unity
+- path: Assets/scenas/aitor.unity
   isLoaded: 1
   isActive: 1
