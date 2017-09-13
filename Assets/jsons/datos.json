@@ -1,0 +1,1358 @@
+{
+  "anos": [
+       {
+        "ano" : 1989,
+        "Curso" : "1989-1990",
+        "estudiantes" : {
+            "total" : 1579,
+            "mujeres": 771,
+            "hombres": 808
+          },
+        "total" : [
+          {
+            "nombre" : "Facultad de Ciencias de la Salud" ,
+            "total" : 0,
+            "mujeres": 0,
+            "hombres":0
+          },
+          {
+            "nombre" : "Facultad de Ciencias Humanas y Sociales",
+            "total" : 234,
+            "mujeres": 178,
+            "hombres": 56
+          },
+          {
+            "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+            "total" : 303,
+            "mujeres": 169,
+            "hombres": 134
+          },
+          {
+            "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+            "total" : 111,
+            "mujeres": 44,
+            "hombres": 67
+          },
+          {
+            "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+            "total" : 931,
+            "mujeres": 190,
+            "hombres": 741
+          },
+          {
+            "nombre" : "Facultad de Ciencias Jurídicas",
+            "total" : 0,
+            "mujeres": 0,
+            "hombres":0
+          }
+        ]
+  },
+ {
+    "ano" : 1990,
+    "Curso" : "1990-1991",
+    "estudiantes" : {
+        "total" : 4515,
+        "mujeres": 2205,
+        "hombres": 2310
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 105,
+        "mujeres": 88,
+        "hombres": 19
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 625,
+        "mujeres": 475,
+        "hombres": 150
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1913,
+        "mujeres": 1067,
+        "hombres": 846
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 656,
+        "mujeres": 262,
+        "hombres": 394
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 1216,
+        "mujeres": 248,
+        "hombres": 968
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 0,
+        "mujeres": 0,
+        "hombres":0
+      }
+    ]
+  },
+   {
+    "ano" : 1991,
+    "Curso" : "1991-1992",
+    "estudiantes" : {
+        "total" : 5903,
+        "mujeres": 2883,
+        "hombres": 3020
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 204,
+        "mujeres": 171,
+        "hombres": 38
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1186,
+        "mujeres": 901,
+        "hombres": 285
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2249,
+        "mujeres": 1254,
+        "hombres": 995
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 799,
+        "mujeres": 320,
+        "hombres": 479
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 1465,
+        "mujeres": 299,
+        "hombres": 1166
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 0,
+        "mujeres": 0,
+        "hombres":0
+      }
+    ]
+  },
+ {
+    "ano" : 1992,
+    "Curso" : "1992-1993",
+    "estudiantes" : {
+        "total" : 7062,
+        "mujeres": 3449,
+        "hombres": 3613
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 318,
+        "mujeres": 266,
+        "hombres": 59
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1285,
+        "mujeres": 976,
+        "hombres": 309
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2432,
+        "mujeres": 1356,
+        "hombres": 1076
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 883,
+        "mujeres": 353,
+        "hombres": 530
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 1866,
+        "mujeres": 380,
+        "hombres": 1486
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 278,
+        "mujeres": 168,
+        "hombres": 110
+      }
+    ]
+  },
+ {
+    "ano" : 1993,
+    "Curso" : "1993-1994",
+    "estudiantes" : {
+        "total" : 8353,
+        "mujeres": 4080,
+        "hombres": 4273
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 335,
+        "mujeres": 280,
+        "hombres": 62
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1621,
+        "mujeres": 1232,
+        "hombres": 389
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2400,
+        "mujeres": 1339,
+        "hombres": 1061
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 1154,
+        "mujeres": 462,
+        "hombres": 692
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2186,
+        "mujeres": 445,
+        "hombres": 1741
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 657,
+        "mujeres": 396,
+        "hombres": 261
+      }
+    ]
+  },
+   {
+    "ano" : 1994,
+    "Curso" : "1994-1995",
+    "estudiantes" : {
+        "total" : 8694,
+        "mujeres": 4246,
+        "hombres": 4448
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 360,
+        "mujeres": 301,
+        "hombres": 67
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1086,
+        "mujeres": 825,
+        "hombres": 261
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2567,
+        "mujeres": 1432,
+        "hombres": 1135
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 1336,
+        "mujeres": 534,
+        "hombres": 802
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2410,
+        "mujeres": 491,
+        "hombres": 1919
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 935,
+        "mujeres": 564,
+        "hombres": 371
+      }
+    ]
+  },
+   {
+    "ano" : 1995,
+    "Curso" : "1995-1996",
+    "estudiantes" : {
+        "total" : 9536,
+        "mujeres": 4658,
+        "hombres": 4878
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 353,
+        "mujeres": 295,
+        "hombres": 65
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1422,
+        "mujeres": 1080,
+        "hombres": 342
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2720,
+        "mujeres": 1517,
+        "hombres": 1203
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 1685,
+        "mujeres": 674,
+        "hombres": 1011
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2162,
+        "mujeres": 441,
+        "hombres": 1721
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 1194,
+        "mujeres": 720,
+        "hombres": 474
+      }
+    ]
+  },
+   {
+    "ano" : 1996,
+    "Curso" : "1996-1997",
+    "estudiantes" : {
+        "total" : 10066,
+        "mujeres": 4916,
+        "hombres": 5150
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 356,
+        "mujeres": 298,
+        "hombres": 66
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1516,
+        "mujeres": 1152,
+        "hombres": 364
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2746,
+        "mujeres": 1531,
+        "hombres": 1215
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 1541,
+        "mujeres": 616,
+        "hombres": 925
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2544,
+        "mujeres": 518,
+        "hombres": 2026
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 1363,
+        "mujeres": 822,
+        "hombres": 541
+      }
+    ]
+  },
+ {
+    "ano" : 1997,
+    "Curso" : "1997-1998",
+    "estudiantes" : {
+        "total" : 10670,
+        "mujeres": 5211,
+        "hombres": 5459
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 343,
+        "mujeres": 287,
+        "hombres": 63
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1662,
+        "mujeres": 1263,
+        "hombres": 399
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2878,
+        "mujeres": 1605,
+        "hombres": 1273
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 1651,
+        "mujeres": 660,
+        "hombres": 991
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2665,
+        "mujeres": 543,
+        "hombres": 2122
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 1471,
+        "mujeres": 887,
+        "hombres": 584
+      }
+    ]
+  },
+{
+    "ano" : 1998,
+    "Curso" : "1998-1999",
+    "estudiantes" : {
+        "total" : 10582,
+        "mujeres": 5168,
+        "hombres": 5414
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 348,
+        "mujeres": 291,
+        "hombres": 64
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1710,
+        "mujeres": 1299,
+        "hombres": 411
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2704,
+        "mujeres": 1508,
+        "hombres": 1196
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 1678,
+        "mujeres": 671,
+        "hombres": 1007
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2738,
+        "mujeres": 558,
+        "hombres": 2180
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 1404,
+        "mujeres": 846,
+        "hombres": 558
+      }
+    ]
+  },
+{
+    "ano" : 1999,
+    "Curso" : "1999-2000",
+    "estudiantes" : {
+        "total" : 10261,
+        "mujeres": 5012,
+        "hombres": 5249
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 349,
+        "mujeres": 292,
+        "hombres": 65
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1665,
+        "mujeres": 1265,
+        "hombres": 400
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2614,
+        "mujeres": 1458,
+        "hombres": 1156
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 1627,
+        "mujeres": 651,
+        "hombres": 976
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2783,
+        "mujeres": 567,
+        "hombres": 2216
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 1223,
+        "mujeres": 737,
+        "hombres": 486
+      }
+    ]
+  },
+   {
+    "ano" : 2000,
+    "Curso" : "2000-2001",
+    "estudiantes" : {
+        "total" : 9484,
+        "mujeres": 4632,
+        "hombres": 4852
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 365,
+        "mujeres": 305,
+        "hombres": 68
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1588,
+        "mujeres": 1207,
+        "hombres": 381
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2477,
+        "mujeres": 1381,
+        "hombres": 1096
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 1448,
+        "mujeres": 579,
+        "hombres": 869
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2601,
+        "mujeres": 530,
+        "hombres": 2071
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 1005,
+        "mujeres": 606,
+        "hombres": 399
+      }
+    ]
+  },
+   {
+    "ano" : 2001,
+    "Curso" : "2001-2002",
+    "estudiantes" : {
+        "total" : 8865,
+        "mujeres": 4330,
+        "hombres": 4535
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 358,
+        "mujeres": 300,
+        "hombres": 66
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1505,
+        "mujeres": 1144,
+        "hombres": 361
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2285,
+        "mujeres": 1274,
+        "hombres": 1011
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 1286,
+        "mujeres": 514,
+        "hombres": 772
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2596,
+        "mujeres": 529,
+        "hombres": 2067
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 835,
+        "mujeres": 503,
+        "hombres": 332
+      }
+    ]
+  },
+  {
+    "ano" : 2002,
+    "Curso" : "2002-2003",
+    "estudiantes" : {
+        "total" : 8450,
+        "mujeres": 4127,
+        "hombres": 4323
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 365,
+        "mujeres": 305,
+        "hombres": 68
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1316,
+        "mujeres": 1000,
+        "hombres": 316
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 2344,
+        "mujeres": 1307,
+        "hombres": 1037
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 1164,
+        "mujeres": 466,
+        "hombres": 698
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2624,
+        "mujeres": 535,
+        "hombres": 2089
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 637,
+        "mujeres": 384,
+        "hombres": 253
+      }
+    ]
+  },
+ {
+    "ano" : 2003,
+    "Curso" : "2003-2004",
+    "estudiantes" : {
+        "total" : 7717,
+        "mujeres": 3769,
+        "hombres": 3948
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 366,
+        "mujeres": 306,
+        "hombres": 68
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1185,
+        "mujeres": 900,
+        "hombres": 285
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1864,
+        "mujeres": 1040,
+        "hombres": 824
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 1088,
+        "mujeres": 435,
+        "hombres": 653
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2650,
+        "mujeres": 540,
+        "hombres": 2110
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 564,
+        "mujeres": 340,
+        "hombres": 224
+      }
+    ]
+  },
+   {
+    "ano" : 2004,
+    "Curso" : "2004-2005",
+    "estudiantes" : {
+        "total" : 7594,
+        "mujeres": 3709,
+        "hombres": 3885
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 378,
+        "mujeres": 316,
+        "hombres": 70
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1217,
+        "mujeres": 925,
+        "hombres": 292
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1873,
+        "mujeres": 1045,
+        "hombres": 828
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 963,
+        "mujeres": 385,
+        "hombres": 578
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2641,
+        "mujeres": 538,
+        "hombres": 2103
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 522,
+        "mujeres": 315,
+        "hombres": 207
+      }
+    ]
+  },
+{
+    "ano" : 2005,
+    "Curso" : "2005-2006",
+    "estudiantes" : {
+        "total" : 7438,
+        "mujeres": 3633,
+        "hombres":3805
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 362,
+        "mujeres": 303,
+        "hombres": 67
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1197,
+        "mujeres": 909,
+        "hombres": 288
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1829,
+        "mujeres": 1020,
+        "hombres": 809
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 886,
+        "mujeres": 354,
+        "hombres": 532
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2630,
+        "mujeres": 536,
+        "hombres": 2094
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 534,
+        "mujeres": 322,
+        "hombres": 212
+      }
+    ]
+  },
+ {
+    "ano" : 2006,
+    "Curso" : "2006-2007",
+    "estudiantes" : {
+        "total" : 7601,
+        "mujeres": 3712,
+        "hombres": 3889
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 441,
+        "mujeres": 369,
+        "hombres": 82
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1248,
+        "mujeres": 948,
+        "hombres": 300
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1841,
+        "mujeres": 1027,
+        "hombres": 814
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 794,
+        "mujeres": 318,
+        "hombres": 476
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2751,
+        "mujeres": 561,
+        "hombres": 2190
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 526,
+        "mujeres": 317,
+        "hombres": 209
+      }
+    ]
+  },
+ {
+    "ano" : 2007,
+    "Curso" : "2007-2008",
+    "estudiantes" : {
+        "total" : 7685,
+        "mujeres": 3753,
+        "hombres": 3932
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 485,
+        "mujeres": 406,
+        "hombres": 90
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1383,
+        "mujeres": 1051,
+        "hombres": 332
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1801,
+        "mujeres": 1004,
+        "hombres": 797
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 748,
+        "mujeres": 299,
+        "hombres": 449
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2705,
+        "mujeres": 551,
+        "hombres": 2154
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 563,
+        "mujeres": 339,
+        "hombres": 224
+      }
+    ]
+  },
+{
+    "ano" : 2008,
+    "Curso" : "2008-2009",
+    "estudiantes" : {
+        "total" : 7792,
+        "mujeres": 3806,
+        "hombres": 3986
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 541,
+        "mujeres": 453,
+        "hombres": 100
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1474,
+        "mujeres": 1120,
+        "hombres": 354
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1798,
+        "mujeres": 1003,
+        "hombres": 795
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 683,
+        "mujeres": 273,
+        "hombres": 410
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2715,
+        "mujeres": 553,
+        "hombres": 2162
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 581,
+        "mujeres": 350,
+        "hombres": 231
+      }
+    ]
+  },
+ {
+    "ano" : 2009,
+    "Curso" : "2009-2010",
+    "estudiantes" : {
+        "total" : 7969,
+        "mujeres": 3892,
+        "hombres": 4077
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 590,
+        "mujeres": 494,
+        "hombres": 109
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1576,
+        "mujeres": 1197,
+        "hombres": 379
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1815,
+        "mujeres": 1012,
+        "hombres": 803
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 677,
+        "mujeres": 271,
+        "hombres": 406
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2721,
+        "mujeres": 554,
+        "hombres": 2167
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 590,
+        "mujeres": 356,
+        "hombres": 234
+      }
+    ]
+  },
+ {
+    "ano" : 2010,
+    "Curso" : "2010-2011",
+    "estudiantes" : {
+        "total" : 7952,
+        "mujeres": 3884,
+        "hombres": 4068
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 601,
+        "mujeres": 503,
+        "hombres": 111
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1622,
+        "mujeres": 1232,
+        "hombres": 390
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1778,
+        "mujeres": 992,
+        "hombres": 786
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 601,
+        "mujeres": 240,
+        "hombres": 361
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2780,
+        "mujeres": 566,
+        "hombres": 2214
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 570,
+        "mujeres": 344,
+        "hombres": 226
+      }
+    ]
+  },
+{
+    "ano" : 2011,
+    "Curso" : "2011-2012",
+    "estudiantes" : {
+        "total" : 7727,
+        "mujeres": 3774,
+        "hombres": 3953
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 558,
+        "mujeres": 467,
+        "hombres": 103
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1657,
+        "mujeres": 1259,
+        "hombres": 398
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1660,
+        "mujeres": 926,
+        "hombres": 734
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 525,
+        "mujeres": 210,
+        "hombres": 315
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2763,
+        "mujeres": 563,
+        "hombres": 2200
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 564,
+        "mujeres": 340,
+        "hombres": 224
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales / Facultad de Ciencias Jurídicas",
+        "total" : 66,
+        "mujeres": 46,
+        "hombres": 20
+      }
+    ]
+  },
+ {
+    "ano" : 2012,
+    "Curso" : "2012-2013",
+    "estudiantes" : {
+        "total" : 7688,
+        "mujeres": 3772,
+        "hombres": 3916
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 573,
+        "mujeres": 467,
+        "hombres":106
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1812,
+        "mujeres": 1383,
+        "hombres": 429
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1582,
+        "mujeres": 790,
+        "hombres": 694
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 480,
+        "mujeres": 190,
+        "hombres": 290
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2679,
+        "mujeres": 537,
+        "hombres": 2142
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 562,
+        "mujeres": 336,
+        "hombres": 226
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales / Facultad de Ciencias Jurídicas",
+        "total" : 98,
+        "mujeres": 69,
+        "hombres": 29
+      }
+    ]
+  },
+{
+    "ano" : 2013,
+    "Curso" : "2013-2014",
+    "estudiantes" : {
+        "total" : 7901,
+        "mujeres": 3910,
+        "hombres": 3991
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 715,
+        "mujeres": 580,
+        "hombres": 135
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1898,
+        "mujeres": 1418,
+        "hombres": 480
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1440,
+        "mujeres": 766,
+        "hombres": 674
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 521,
+        "mujeres": 208,
+        "hombres": 313
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2550,
+        "mujeres": 465,
+        "hombres": 2085
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 645,
+        "mujeres": 380,
+        "hombres": 265
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales / Facultad de Ciencias Jurídicas",
+        "total" : 132,
+        "mujeres": 93,
+        "hombres": 39
+      }
+    ]
+  },
+ {
+    "ano" : 2014,
+    "Curso" : "2014-2015",
+    "estudiantes" : {
+        "total" : 7810,
+        "mujeres": 3971,
+        "hombres": 3839
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 755,
+        "mujeres": 604,
+        "hombres": 151
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1926,
+        "mujeres": 1445,
+        "hombres": 481
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1537,
+        "mujeres": 717,
+        "hombres": 649
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 523,
+        "mujeres": 220,
+        "hombres": 303
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2419,
+        "mujeres": 468,
+        "hombres": 1951
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 650,
+        "mujeres": 397,
+        "hombres": 253
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales / Facultad de Ciencias Jurídicas",
+        "total" : 171,
+        "mujeres": 120,
+        "hombres": 51
+      }
+    ]
+  },
+ {
+    "ano" : 2015,
+    "Curso" : "2015-2016",
+    "estudiantes" : {
+        "total" : 7844,
+        "mujeres": 3859,
+        "hombres": 3985
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 743,
+        "mujeres": 569,
+        "hombres": 174
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1880,
+        "mujeres": 1368,
+        "hombres": 512
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1290,
+        "mujeres": 650,
+        "hombres": 640
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 603,
+        "mujeres": 254,
+        "hombres": 349
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2414,
+        "mujeres": 458,
+        "hombres": 1956
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 706,
+        "mujeres": 416,
+        "hombres": 290
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales / Facultad de Ciencias Jurídicas",
+        "total" : 208,
+        "mujeres": 144,
+        "hombres": 64
+      }
+    ]
+  },
+ {
+    "ano" : 2016,
+    "Curso" : "2016-2017",
+    "estudiantes" : {
+        "total" : 7646,
+        "mujeres": 3831,
+        "hombres": 3815
+      },
+    "total" : [
+      {
+        "nombre" : "Facultad de Ciencias de la Salud" ,
+        "total" : 735,
+        "mujeres": 548,
+        "hombres": 187
+      },
+      {
+        "nombre" : "Facultad de Ciencias Humanas y Sociales",
+        "total" : 1892,
+        "mujeres": 1386,
+        "hombres": 506
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales",
+        "total" : 1266,
+        "mujeres": 645,
+        "hombres": 621
+      },
+      {
+        "nombre" : "Escuela Técnica Superior de Ingenieros Agrónomos",
+        "total" : 572,
+        "mujeres": 247,
+        "hombres": 325
+      },
+      {
+        "nombre" : "E. T. S. de Ingenieros Industriales y de Telecomunicación",
+        "total" : 2240,
+        "mujeres": 433,
+        "hombres": 1807
+      },
+      {
+        "nombre" : "Facultad de Ciencias Jurídicas",
+        "total" : 725,
+        "mujeres": 420,
+        "hombres": 305
+      },
+      {
+        "nombre" : "Facultad de Ciencias Económicas y Empresariales / Facultad de Ciencias Jurídicas",
+        "total" : 216,
+        "mujeres": 152,
+        "hombres": 64
+      }
+    ]
+
+  }
+  ]
+
+}

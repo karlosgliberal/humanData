@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ParticlePlexus.cs">
+    <Files>
+      <File FileName="Assets/scripts/ParticlePlexus.cs" Line="280" Column="5" />
+      <File FileName="Assets/scripts/BaseDatosHandler.cs" Line="27" Column="29" />
+      <File FileName="Assets/scripts/PersonaDataJsonObj.cs" Line="37" Column="1" />
+      <File FileName="Assets/jsons/datos.json" Line="383" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
